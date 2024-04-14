@@ -81,6 +81,7 @@ Complete NLP Playlist:https://www.youtube.com/watch?v=fM4qTMfCoak&list=PLZoTAELR
 6. Evidently AI
 7. Grafana(Monitoring)
 8. AirFlow
+9. Linux - Red Hat Enterprice Linux
 
 ## Internships:
 ![Red White Modern Youtube Thumbnail (2)](https://user-images.githubusercontent.com/20041231/211718275-abc43b47-b53d-40d7-a93c-24aceaa6bec8.jpg)
